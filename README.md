@@ -53,4 +53,4 @@ This repository contains reusable artifacts for:
 
 All examples use synthetic scenarios and public examples only.
 
-This repository is a personal portfolio project and is not affiliated with or representative of my employer.
+This repository is a personal portfolio project and is not affiliated with or representative of my employer in any way.
